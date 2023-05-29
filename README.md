@@ -1,5 +1,7 @@
 # 💫 About Me:
-A passionate coder, who is looking for a web development job to implement the passionate coding skill in actual projects.
+* A web developer, specifically focused on functionalities and logics and stuff
+* Node.js Lover
+* Learning more about zero's and one's
 
 
 ## 🌐 Socials:
