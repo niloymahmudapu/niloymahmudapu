@@ -1,8 +1,8 @@
 # Attention!
 This account isn't active currently. <br />
-Visit the active account: [Niloy Mahmud Apu](https://github.com/niloy143)
+Visit [Niloy Mahmud Apu](https://github.com/niloy143) instead.
 
-### 💫 About Me:
+# [Niloy Mahmud Apu](https://github.com/niloy143)
 * A web developer, specifically focused on functionalities and logics and stuff
 * Node.js Lover
 * Learning more about zero's and one's
