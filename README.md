@@ -1,4 +1,4 @@
-#![Niloy Mahmud Apu](https://github.com/niloy143)
+[##Niloy Mahmud Apu](https://github.com/niloy143)
 
 # 💫 About Me:
 * A web developer, specifically focused on functionalities and logics and stuff
