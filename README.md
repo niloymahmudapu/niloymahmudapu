@@ -1,6 +1,6 @@
 # Attention!
 This account isn't active currently.
-# See Original Account: [Niloy Mahmud Apu](https://github.com/niloy143)
+See Original Account: [Niloy Mahmud Apu](https://github.com/niloy143)
 
 # 💫 About Me:
 * A web developer, specifically focused on functionalities and logics and stuff
