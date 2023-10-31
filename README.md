@@ -1,6 +1,6 @@
 # Attention!
 This account isn't active currently. <br />
-Visit [Niloy Mahmud Apu](https://github.com/niloy143) instead.
+Visit [github.com/niloy143](https://github.com/niloy143) instead.
 
 # [Niloy Mahmud Apu](https://github.com/niloy143)
 * A web developer, specifically focused on functionalities and logics and stuff
