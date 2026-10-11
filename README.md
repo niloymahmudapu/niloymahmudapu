@@ -11,7 +11,7 @@ Software developer from Brahmanbaria, Bangladesh, with 3+ years of building web 
 
 ### Products I've built and shipped
 
-| | | |
+| Product | What it does | Built with |
 |---|---|---|
 | [Blaadline](https://blaadline.com) | Family tree builder with GEDCOM import and print-ready PDF export | Next.js, Prisma, PostgreSQL |
 | [Screention](https://screention.gkernel.com) | Screenshot and annotation tool for Windows, macOS and Linux | Tauri, Rust, React |
