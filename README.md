@@ -2,7 +2,7 @@
 
 Software developer from Brahmanbaria, Bangladesh, with 3+ years of building web applications, WordPress plugins and desktop tools, mostly in **TypeScript, React, Next.js, Node.js and PHP**.
 
-[niloy.me](https://niloy.me) · [LinkedIn](https://linkedin.com/in/niloymahmudapu) · niloymahmudapu@gmail.com
+[niloy.me](https://niloy.me) · [LinkedIn](https://linkedin.com/in/niloymahmudapu) · [contact@niloy.me](mailto:contact@niloy.me)
 
 ### Work
 
